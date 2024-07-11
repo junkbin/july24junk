@@ -7,6 +7,7 @@ import TheWelcome from './components/TheWelcome.vue'
   <header>
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
+      <div>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Labore voluptatum praesentium, veritatis harum velit repudiandae temporibus fuga soluta nisi obcaecati dicta nulla eligendi quisquam quo nemo pariatur? Praesentium asperiores animi obcaecati modi dicta inventore ad ab possimus velit esse quis vero accusamus voluptate, rerum alias numquam eveniet excepturi consequuntur ipsa maiores perspiciatis delectus. Explicabo corporis aspernatur odio, vero eos nam? Corporis neque, iure perferendis molestiae soluta atque possimus, velit praesentium veritatis quae, ratione a sapiente? Harum exercitationem iste blanditiis eaque accusamus rem maxime eum aliquam! Id maxime fuga autem, voluptate praesentium saepe eum nihil facilis dolores qui? Est, nobis ducimus.</div>
     </div>
   </header>
 
